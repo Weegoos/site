@@ -1,1 +1,1 @@
-![UML Diagram]("C:\Users\Батыр\Desktop\uml.png")
+![UML Diagram]("uml.png")
